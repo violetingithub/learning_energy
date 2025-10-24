@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+  <!-- 背景圆环 -->
+  <circle cx="100" cy="100" r="80" fill="#16213e" stroke="#00b4d8" stroke-width="3" opacity="0.8"/>
+  
+  <!-- 能量光效 -->
+  <circle cx="100" cy="100" r="70" fill="none" stroke="#90e0ef" stroke-width="2" stroke-dasharray="5,5" opacity="0.6"/>
+  <circle cx="100" cy="100" r="60" fill="none" stroke="#00b4d8" stroke-width="2" opacity="0.4"/>
+  
+  <!-- 学习图标 - 书籍 -->
+  <path d="M60,120 L60,80 C60,70 70,70 70,80 L70,120 L60,120 Z M80,120 L80,70 C80,60 90,60 90,70 L90,120 L80,120 Z M100,120 L100,60 C100,50 110,50 110,60 L110,120 L100,120 Z M120,120 L120,80 C120,70 130,70 130,80 L130,120 L120,120 Z" fill="#00b4d8"/>
+  
+  <!-- 能量符号 - 闪电 -->
+  <path d="M100,40 L90,70 L110,70 L85,95 L100,125 L115,95 L90,70 L115,45 Z" fill="#90e0ef"/>
+  
+  <!-- 装饰元素 - 星星 -->
+  <path d="M80,60 L82,66 L90,68 L84,72 L86,78 L80,75 L74,78 L76,72 L70,68 L78,66 Z" fill="#ffffff" opacity="0.8"/>
+  <path d="M120,60 L122,66 L130,68 L124,72 L126,78 L120,75 L114,78 L116,72 L110,68 L118,66 Z" fill="#ffffff" opacity="0.8"/>
+  <path d="M80,120 L82,126 L90,128 L84,132 L86,138 L80,135 L74,138 L76,132 L70,128 L78,126 Z" fill="#ffffff" opacity="0.8"/>
+  <path d="M120,120 L122,126 L130,128 L124,132 L126,138 L120,135 L114,138 L116,132 L110,128 L118,126 Z" fill="#ffffff" opacity="0.8"/>
+</svg>
